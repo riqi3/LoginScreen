@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.login_form">
    <application
-        android:label="login_form"
+        android:label="Shawty's Pizza Place"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
